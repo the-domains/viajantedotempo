@@ -1,0 +1,28 @@
+name: ViajanteDoTempo
+favicon: null
+layout_spectrum: 0.8700077577959746
+typography_spectrum: 0.4737545233219862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.886726280907169
+  lightness: 0.1438054747413844
+  saturation: 0.8832352163735777
+  rhythmicContrast: 0.20115109160542488
+purpose: []

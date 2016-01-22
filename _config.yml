@@ -1,7 +1,7 @@
 name: ViajanteDoTempo
 favicon: null
-layout_spectrum: 0.8700077577959746
-typography_spectrum: 0.4737545233219862
+layout_spectrum: 0.00556
+typography_spectrum: 0.57861
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.886726280907169
+  brandStrength: 0.625
   lightness: 0.1438054747413844
   saturation: 0.8832352163735777
   rhythmicContrast: 0.20115109160542488

@@ -1,4 +1,4 @@
-name: ViajanteDoTempo
+name: Viajante Do Tempo
 favicon: null
 layout_spectrum: 0.00556
 typography_spectrum: 0.57861
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2a2a2a'
+    - '#000000'
+    - '#f2d1ae'
+    - '#a48e76'
+    - '#746353'
   brandStrength: 0.625
   lightness: 0.1438054747413844
   saturation: 0.8832352163735777
